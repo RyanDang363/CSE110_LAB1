@@ -2,14 +2,13 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [About Me](#about-me)
 - [Languages I Know](#languages-i-know)
 - [Career Goals](#career-goals)
 - [Contact Me!](#contact-me)
 
 
-![Picture of UCSD Giesel Library] (https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/UC_San_Diego_Geisel_Library.jpg/330px-UC_San_Diego_Geisel_Library.jpg)
+![Picture of UCSD Giesel Library](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/UC_San_Diego_Geisel_Library.jpg/330px-UC_San_Diego_Geisel_Library.jpg)
 
 ## About Me
  
